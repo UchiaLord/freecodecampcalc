@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freecodecampcalc/static/css/main.ff556c9c.css",
+    "main.js": "/freecodecampcalc/static/js/main.5a00820a.js",
+    "static/js/787.2e5a55a0.chunk.js": "/freecodecampcalc/static/js/787.2e5a55a0.chunk.js",
+    "index.html": "/freecodecampcalc/index.html",
+    "main.ff556c9c.css.map": "/freecodecampcalc/static/css/main.ff556c9c.css.map",
+    "main.5a00820a.js.map": "/freecodecampcalc/static/js/main.5a00820a.js.map",
+    "787.2e5a55a0.chunk.js.map": "/freecodecampcalc/static/js/787.2e5a55a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff556c9c.css",
+    "static/js/main.5a00820a.js"
+  ]
+}
